@@ -55,11 +55,11 @@ const navigation = () => {
       path: '/account-settings'
     },
 
-    {
-      title: 'Change Password',
-      icon: AccountCogOutline,
-      path: '/account-settings'
-    },
+    // {
+    //   title: 'Change Password',
+    //   icon: AccountCogOutline,
+    //   path: '/account-settings'
+    // },
     // {
     //   sectionTitle: 'Pages'
     // },

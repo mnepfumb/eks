@@ -109,7 +109,7 @@ const LoginPage = () => {
       <Card sx={{ zIndex: 1 }}>
         <CardContent sx={{ padding: theme => `${theme.spacing(12, 9, 7)} !important` }}>
           <Box sx={{ mb: 8, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <img src='/eks/images/eks.png' alt='eks logo' width={50} height={50} />
+            <img src='/images/eks.png' alt='eks logo' width={50} height={50} />
             <Typography
               variant='h6'
               sx={{

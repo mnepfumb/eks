@@ -107,7 +107,7 @@ const DashboardTable = () => {
                                     // backgroundColor: theme => `rgba(${theme.palette.customColors.main}, 0.04)`
                                     }}
                                     >
-                                    <img src='/eks/images/vodacom.png' alt='{item.title}' height={20} />
+                                    <img src='/images/vodacom.png' alt='{item.title}' height={20} />
                                     </Avatar>
                                 </TableCell>
 

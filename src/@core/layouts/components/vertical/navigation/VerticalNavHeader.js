@@ -47,7 +47,7 @@ const VerticalNavHeader = props => {
       ) : (
         <Link href='/' passHref>
           <StyledLink>
-              <img src='/eks/images/eks.png' alt='eks logo' width={50} height={50} />
+              <img src='/images/eks.png' alt='eks logo' width={50} height={50} />
             {/* <svg
               width={30}
               height={25}

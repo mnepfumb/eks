@@ -12,21 +12,21 @@ import GoogleCirclesExtended from 'mdi-material-ui/GoogleCirclesExtended'
 
 const navigation = () => {
   return [
-    {
-      sectionTitle: 'Dashboard'
-    },
-    {
-      title: 'Dashboard',
-      icon: HomeOutline,
-      path: '/'
-    },
+    // {
+    //   sectionTitle: 'Dashboard'
+    // },
+    // {
+    //   title: 'Dashboard',
+    //   icon: HomeOutline,
+    //   path: '/'
+    // },
     {
       sectionTitle: 'Organizations'
     },
     {
       title: 'Company Detail',
       icon: OfficeBuilding,
-      path: '/company-details'
+      path: '/'
     },
     {
       title: 'SIMs',
